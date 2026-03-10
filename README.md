@@ -94,6 +94,3 @@ I focus on building data-driven solutions, predictive models, and intelligent sy
 * MLOps & Model Deployment
 * Scalable Machine Learning Systems
 
----
-
-⭐ *Using data to build intelligent solutions and meaningful insights.*
