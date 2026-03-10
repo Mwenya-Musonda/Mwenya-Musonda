@@ -40,57 +40,98 @@ I focus on building data-driven solutions, predictive models, and intelligent sy
 
 ---
 
-# ⚙️ Dynamic Tech Stack
+# ⚙️ Tech Stack
 
-### Programming & Data Science
+## 👨‍💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,r,scala,java&perline=6" />
+
+<img src="https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python" />
+
+<img src="https://img.shields.io/badge/R-Statistics-blue?style=for-the-badge&logo=r" />
+
+<img src="https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=mysql" />
+
 </p>
 
 ---
 
-### Data Analysis & Visualisation
+## 📊 Data Analysis & Visualization
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python&perline=6" />
-<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-black?style=for-the-badge&logo=pandas">
-<img src="https://img.shields.io/badge/Numpy-Numerical%20Computing-blue?style=for-the-badge&logo=numpy">
-<img src="https://img.shields.io/badge/Matplotlib-Data%20Visualisation-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Plotly-Interactive%20Dashboards-purple?style=for-the-badge&logo=plotly">
+
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-black?style=for-the-badge&logo=pandas" />
+
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?style=for-the-badge&logo=numpy" />
+
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Plotly-Interactive%20Dashboards-purple?style=for-the-badge&logo=plotly" />
+
+<img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Tableau-Data%20Visualisation-E97627?style=for-the-badge&logo=tableau" />
+
 </p>
 
 ---
 
-### Machine Learning & AI
+## 🤖 Machine Learning & AI
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=6" />
+
+<img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?style=for-the-badge&logo=scikit-learn" />
+
+<img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?style=for-the-badge&logo=tensorflow" />
+
+<img src="https://img.shields.io/badge/PyTorch-Neural%20Networks-red?style=for-the-badge&logo=pytorch" />
+
+<img src="https://img.shields.io/badge/XGBoost-Gradient%20Boosting-green?style=for-the-badge" />
+
 </p>
 
 ---
 
-### Databases
+## 🗄 Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6" />
+
+<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql" />
+
+<img src="https://img.shields.io/badge/MySQL-Relational%20Database-blue?style=for-the-badge&logo=mysql" />
+
+<img src="https://img.shields.io/badge/MongoDB-NoSQL-green?style=for-the-badge&logo=mongodb" />
+
 </p>
 
 ---
 
-### Tools & Platforms
+## ⚡ Big Data & Data Engineering
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,jupyter&perline=7" />
+
+<img src="https://img.shields.io/badge/Apache%20Spark-Big%20Data-E25A1C?style=for-the-badge&logo=apachespark" />
+
+<img src="https://img.shields.io/badge/Hadoop-Distributed%20Computing-yellow?style=for-the-badge&logo=apachehadoop" />
+
 </p>
 
+---
 
+## ☁️ Cloud & Tools
 
+<p align="center">
 
+<img src="https://img.shields.io/badge/AWS-Cloud%20Computing-orange?style=for-the-badge&logo=amazonaws" />
 
-* Large Language Models (LLMs)
-* Advanced Deep Learning
-* MLOps & Model Deployment
-* Scalable Machine Learning Systems
+<img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker" />
+
+<img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git" />
+
+<img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" />
+
+</p>
+
 
