@@ -23,7 +23,7 @@ Data Scientist | MSc Data Science (Distinction)
 
 # 🧠 About Me
 
-I am Mwenya Musonda, a Data Scientist with an MSc in Data Science (Distinction) at the university of Essex U.
+I am Mwenya Musonda, a Data Scientist with an MSc in Data Science (Distinction) at the University of Essex.
 I focus on building data-driven solutions, predictive models, and intelligent systems.
 
 * 🔬 Specialising in Machine Learning & Data Analytics
